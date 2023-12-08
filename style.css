@@ -200,8 +200,7 @@
     .oms h1 {
         margin-left: 10% !important;
         margin-top: 4% !important;
-        font-size:large !important;
-        
+        font-size:large !important;  
       
     }
 
@@ -260,7 +259,7 @@
 
 @media (max-width:768px) {
   .oms h1 {
-    margin-left: 20% !important;
+    margin-left: 20% ;
     margin-top: 4% !important;
     font-size:large !important;
   }
