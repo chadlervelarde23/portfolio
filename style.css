@@ -195,6 +195,27 @@
 .salapsap {
   font-family: 'Nova Square', sans-serif;
 }
+.game-container {
+  text-align: center;
+}
+canvas {
+  border: 5px solid rgba(255, 68, 0, 0.91);
+}
+
+.yeye h1 {
+  font-family: 'Nova Square', sans-serif;
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -268,6 +289,17 @@
     .ew h1 {
       font-size: 30px;
     }
+
+    .game-container canvas {
+      width: 400px;
+      height: 400px;
+    }
+
+    .yeye h1 {
+      font-size: 30px;
+    }
+
+
 
 
 
